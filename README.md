@@ -14,4 +14,4 @@ This repository contain some Python and shell scripts in order to do a simple si
 
 Here we have the results of the simulation for 1000 stars and for a 15 parsec cut-off. We observe a formation of two galaxies. On the right we have the number of stars in a region. On the left, we just plot the position of each stars.
 
-![**Left plot : ** Positions of each stars. **Right plot : ** Number of stars in each region.](1000stars/1000stars_2d_2gals_15pc.gif)
+![Left plot :  Positions of each stars. Right plot :  Number of stars in each region.](1000stars/1000stars_2d_2gals_15pc.gif)
