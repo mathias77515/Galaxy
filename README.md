@@ -6,7 +6,7 @@ This repository contain some Python and shell scripts in order to do a simple si
 
 - **anim.py** : This file allows to create and save the animation that we produce by the *FuncAnimation* Python module.
 
-- **run_simu.sh** : This shell script allows to run the *main.py* file and give some argument like the number of stars $$ N $$, the computing time $$ t $$ or the time integration $$ dt $$ for example.
+- **run_simu.sh** : This shell script allows to run the *main.py* file and give some argument like the number of stars N, the computing time t or the time integration dt for example.
 
 - **run_anim.sh** : This shell script allows to run the *anim.py* file and give argument to it.
 
